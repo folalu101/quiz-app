@@ -1,4 +1,4 @@
-.check-me {
+.quiz-ans {
     font-size: larger;
     color: brown;
     /* border: 10px;
@@ -10,7 +10,4 @@
 p {
     font-size: larger;
     color: blueviolet;
-}
-.bottom-form {
-    font-size: larger;
 }
