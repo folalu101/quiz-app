@@ -1,0 +1,16 @@
+.check-me {
+    font-size: larger;
+    color: brown;
+    /* border: 10px;
+    border-radius: 5px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: cadetblue; */
+}
+p {
+    font-size: larger;
+    color: blueviolet;
+}
+.bottom-form {
+    font-size: larger;
+}
