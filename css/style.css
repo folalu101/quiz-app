@@ -7,6 +7,9 @@
     border-style: solid;
     border-color: cadetblue; */
 }
+.quiz-ans:hover {
+    box-shadow: 3px 7px;
+}
 p {
     font-size: larger;
     color: blueviolet;
